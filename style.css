@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+  border-width: 10px; 
+  background-color: white;
+  border-style: ridge;
+  border-color: turquoise;
+}
+
+.hot_pink{
+  background-color: #FCBACB;
+  text-decoration-color: black;
+  border-color: rgb(43, 233, 43);
+  border-style:groove;
+  border-width: 5px;
+}
